@@ -1,5 +1,5 @@
 {
-  "name": "vue3-vite-tailwindcss+pinia-typescript-vitest-cypress",
+  "name": "vue3-vite-tailwindcss-pinia-typescript-vitest-cypress",
   "version": "0.0.0",
   "private": true,
   "scripts": {
